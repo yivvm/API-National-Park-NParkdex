@@ -29,57 +29,59 @@ async function getAllParkCode () {
 // console.log(np_codes)
 
 const colors = {
-    'AL': 'Alabama',
-    'AK': '#F5F5F5',
-    'AZ': '#FDDFDF',
-    'AR': 'Arkansas',
-    'CA': 'California',
-    'CO': 'FFFFE0',
-    'CT': 'Connecticut',
-    'DE': 'Delaware',
-    'FL': 'Florida',
-    'GA': 'Georgia',
-    'HI': 'Hawaii',
-    'ID': 'Idaho',
-    'IL': 'Illinois',
-    'IN': 'Indiana',
-    'IA': 'Iowa',
-    'KS': 'Kansas',
-    'KY': 'Kentucky',
-    'LA': 'E5E5E5',
-    'ME': '#E0CCFF',
-    'MD': 'Maryland',
-    'MA': 'Massachusetts',
-    'MI': 'Michigan',
-    'MN': 'Minnesota',
-    'MS': 'Mississippi',
-    'MO': 'Missouri',
-    'MT': 'Montana',
-    'NE': 'Nebraska',
-    'NV': 'Nevada',
-    'NH': 'New Hampshire',
-    'NJ': 'New Jersey',
-    'NM': 'New Mexico',
-    'NY': 'New York',
-    'NC': '#DEFDE0',
-    'ND': '#E6E0D4',
-    'OH': 'Ohio',
-    'OK': 'Oklahoma',
-    'OR': 'B3ECFF',
-    'PA': 'Pennsylvania',
-    'RI': '#F5F5F5',
-    'SC': '#EAEDA1',
-    'SD': '#F8D5A3',
-    'TN': '#98D7A5',
-    'TX': 'FFF4B3',
-    'UT': 'FFD9B3',
-    'VT': '#FCEAFF',
-    'VA': '#F4E7DA',
-    'WA': 'Washington',
-    'WV': '#DEF3FD',
-    'WI': '#FCF7DE',
-	"WY": '#97B3E6'
-}
+    "AL": "#E0B3FF",
+    "AK": "#F5F5F5",
+    "AZ": "#FDDFDF",
+    "AR": "#E6E6E6",
+    "CA": "#FFCC66",  // "#FFB3A3",
+    "CO": "#FFFFE0",
+    "CT": "#FFFDB3",
+    "DE": "#FFCCB3",
+    "FL": "#B3FFF5",
+    "GA": "#D9FFDB",
+    "HI": "#85C1E9", // "#B3FFF5",
+    "ID": "#FFFAE6",
+    "IL": "#FFCCFF",
+    "IN": "#FFCCCC",
+    "IA": "#FFFDB3",
+    "KS": "#B3FFD9",
+    "KY": "#FFF5B3",
+    "LA": "#E5E5E5",
+    "ME": "#E0CCFF",
+    "MD": "#D9D9D9",
+    "MA": "#B3E5FF",
+    "MI": "#E6FFB3",
+    "MN": "#B3FFF5",
+    "MS": "#B3FFCC",
+    "MO": "#FFD9DC",
+    "MT": "#B3F5FF",
+    "NE": "#CCB3FF",
+    "NV": "#FFB3D9",
+    "NH": "#B3FFF0",
+    "NJ": "#FFD9DC",
+    "NM": "white",
+    "NY": "#CCB3FF",
+    "NC": "#DEFDE0",
+    "ND": "#E6E0D4",
+    "OH": "#FFEEDD",  // "#FFE5B3",
+    "OK": "#D9FFB3",
+    "OR": "#B3A9FF",  // "#B3ECFF",
+    "PA": "#FFD9B3",
+    "RI": "#F5F5F5",
+    "SC": "#EAEDA1",
+    "SD": "#F8D5A3",
+    "TN": "#98D7A5",
+    "TX": "#FFFFE0",
+    "UT": "#FFB3B3",
+    "VT": "#FCEAFF",
+    "VA": "#F4E7DA",
+    "VI": "#66CCFF", 
+    "WA": "#86E3FF",  // "#B3FFFA",
+    "WV": "#DEF3FD",
+    "WI": "#FCF7DE",
+    "WY": "#B3D9FF"
+};
+
 
 const main_type = Object.keys(colors);
 
@@ -121,9 +123,10 @@ const createNPCard = (park) => {
     parkEl.classList.add('park');
     // console.log(`park: ${park}`)
 
-    if (park) {
-    // if (park && park.data && park.data[0] && park.data[0].images && park.data[0].images[0]) {
+    parkEl.style.cursor = 'pointer';
 
+    // if (park) {
+    if (park && park.data && park.data[0] && park.data[0].addresses && park.data[0].addresses[0] && park.data[0].addresses[0].stateCode && park.data[0].images && park.data[0].images[0]) {
         const park_stateCode = park.data[0].addresses[0].stateCode;
         const color = colors[park_stateCode]
         parkEl.style.backgroundColor = color;
@@ -131,6 +134,7 @@ const createNPCard = (park) => {
         const image_url = park.data[0].images[0].url;
         const name = park.data[0]['name'];
         const state = park.data[0].states;
+        const park_url = park.data[0].url;
 
         const parkInnerHtml = 
         `
@@ -142,12 +146,15 @@ const createNPCard = (park) => {
             <h3 class='name'>${name}</h3>
             <small class='state'><span>${state}</span></small>
         </div>
-
         `
-        // TODO: add a div for short "description" inside parkInnerHTML, define the size of the this div
 
         parkEl.innerHTML = parkInnerHtml;
-        np_container.appendChild(parkEl)
+        np_container.appendChild(parkEl);
+
+        // Add event listener to park card, link to nps.gov/parkCode/index and open a new tab
+        parkEl.addEventListener('click', () => {
+            window.open(`${park_url}`, '_blank');
+        })
     } else {
         console.error(`Invalid park data`)
     }
