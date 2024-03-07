@@ -1,0 +1,2998 @@
+[
+    {
+        "Name":"NPS unit type designations (link)",
+        "Type":null,
+        "Park Code":null,
+        "Org Code":null,
+        "Region":null
+    },
+    {
+        "Name":"ABRAHAM LINCOLN BIRTHPLACE",
+        "Type":"NHP",
+        "Park Code":"ABLI",
+        "Org Code":5540,
+        "Region":"SER"
+    },
+    {
+        "Name":"ACADIA    ",
+        "Type":"NP",
+        "Park Code":"ACAD",
+        "Org Code":1700,
+        "Region":"NER"
+    },
+    {
+        "Name":"ADAMS      ",
+        "Type":"NHP",
+        "Park Code":"ADAM",
+        "Org Code":1710,
+        "Region":"NER"
+    },
+    {
+        "Name":"AFRICAN BURIAL GROUND",
+        "Type":"NM",
+        "Park Code":"AFBG",
+        "Org Code":1762,
+        "Region":"NER"
+    },
+    {
+        "Name":"AGATE FOSSIL BEDS     ",
+        "Type":"NM",
+        "Park Code":"AGFO",
+        "Org Code":6710,
+        "Region":"MWR"
+    },
+    {
+        "Name":"ALIBATES FLINT QUARRIES NATIONAL MONUMENT",
+        "Type":"NM",
+        "Park Code":"ALFL",
+        "Org Code":7550,
+        "Region":"IMR"
+    },
+    {
+        "Name":"ALLEGHENY PORTAGE RAILROAD ",
+        "Type":"NHS",
+        "Park Code":"ALPO",
+        "Org Code":4130,
+        "Region":"NER"
+    },
+    {
+        "Name":"AMISTAD    ",
+        "Type":"NRA",
+        "Park Code":"AMIS",
+        "Org Code":"7100-7109",
+        "Region":"IMR"
+    },
+    {
+        "Name":"ANDERSONVILLE ",
+        "Type":"NHS",
+        "Park Code":"ANDE",
+        "Org Code":5100,
+        "Region":"SER"
+    },
+    {
+        "Name":"ANDREW JOHNSON      ",
+        "Type":"NHS",
+        "Park Code":"ANJO",
+        "Org Code":5450,
+        "Region":"SER"
+    },
+    {
+        "Name":"ANIAKCHAK    ",
+        "Type":"NM",
+        "Park Code":"ANIA",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"ANIAKCHAK    ",
+        "Type":"NPRES",
+        "Park Code":"ANIA",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"ANTIETAM    ",
+        "Type":"NB",
+        "Park Code":"ANTI",
+        "Org Code":3120,
+        "Region":"NCR"
+    },
+    {
+        "Name":"APOSTLE ISLANDS     ",
+        "Type":"NL",
+        "Park Code":"APIS",
+        "Org Code":6140,
+        "Region":"MWR"
+    },
+    {
+        "Name":"APPALACHIAN      \n(CT, GA, ME, MD, MA, NH, NJ, NY NC, PA, TN, VT, VA, WV )",
+        "Type":"NST",
+        "Park Code":"APPA",
+        "Org Code":null,
+        "Region":"*NER, SER\n"
+    },
+    {
+        "Name":"APPOMATTOX COURT HOUSE  ",
+        "Type":"NHP",
+        "Park Code":"APCO",
+        "Org Code":4180,
+        "Region":"NER"
+    },
+    {
+        "Name":"ARCHES    ",
+        "Type":"NP",
+        "Park Code":"ARCH",
+        "Org Code":1348,
+        "Region":"IMR"
+    },
+    {
+        "Name":"ARKANSAS POST     ",
+        "Type":"NMEM",
+        "Park Code":"ARPO",
+        "Org Code":7110,
+        "Region":"MWR"
+    },
+    {
+        "Name":"ARLINGTON HOUSE - ROBERT E. LEE MEMORIAL",
+        "Type":"NMEM",
+        "Park Code":"ARHO",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"ASSATEAGUE ISLAND NS\n",
+        "Type":"NS",
+        "Park Code":"ASIS",
+        "Org Code":4190,
+        "Region":"NER"
+    },
+    {
+        "Name":"AZTEC RUINS    ",
+        "Type":"NM",
+        "Park Code":"AZRU",
+        "Org Code":7380,
+        "Region":"IMR"
+    },
+    {
+        "Name":"BADLANDS    ",
+        "Type":"NP",
+        "Park Code":"BADL",
+        "Org Code":1300,
+        "Region":"MWR"
+    },
+    {
+        "Name":"BANDELIER    ",
+        "Type":"NM",
+        "Park Code":"BAND",
+        "Org Code":"7120-7129",
+        "Region":"IMR"
+    },
+    {
+        "Name":"BELMONT-PAUL WOMEN'S EQUALITY",
+        "Type":"NM",
+        "Park Code":"BEPA",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"BENTS OLD FORT      ",
+        "Type":"NHS",
+        "Park Code":"BEOL",
+        "Org Code":1310,
+        "Region":"IMR"
+    },
+    {
+        "Name":"BERING LAND BRIDGE     ",
+        "Type":"NPRES",
+        "Park Code":"BELA",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"BIG BEND    ",
+        "Type":"NP",
+        "Park Code":"BIBE",
+        "Org Code":"7130-7139",
+        "Region":"IMR"
+    },
+    {
+        "Name":"BIG CYPRESS    ",
+        "Type":"NPRES",
+        "Park Code":"BICY",
+        "Org Code":5120,
+        "Region":"SER"
+    },
+    {
+        "Name":"BIG HOLE    ",
+        "Type":"NB",
+        "Park Code":"BIHO",
+        "Org Code":9374,
+        "Region":"PWR"
+    },
+    {
+        "Name":"BIG SOUTH FORK    \n\n",
+        "Type":"NR&RA",
+        "Park Code":"BISO",
+        "Org Code":5130,
+        "Region":"SER"
+    },
+    {
+        "Name":"BIG THICKET    ",
+        "Type":"NPRES",
+        "Park Code":"BITH",
+        "Org Code":"7140-7149",
+        "Region":"IMR"
+    },
+    {
+        "Name":"BIGHORN CANYON    \n",
+        "Type":"NRA",
+        "Park Code":"BICA",
+        "Org Code":1380,
+        "Region":"IMR"
+    },
+    {
+        "Name":"BIRMINGHAM CIVIL RIGHTS",
+        "Type":"NM",
+        "Park Code":"BICR",
+        "Org Code":5730,
+        "Region":"SER"
+    },
+    {
+        "Name":"BISCAYNE    ",
+        "Type":"NP",
+        "Park Code":"BISC",
+        "Org Code":5250,
+        "Region":"SER"
+    },
+    {
+        "Name":"BLACK CANYON OF THE GUNNISON    ",
+        "Type":"NP",
+        "Park Code":"BLCA",
+        "Org Code":1377,
+        "Region":"IMR"
+    },
+    {
+        "Name":"BLACKSTONE RIVER VALLEY",
+        "Type":"NHP",
+        "Park Code":"BLRV",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"BLUE RIDGE",
+        "Type":"PW",
+        "Park Code":"BLRI",
+        "Org Code":"5140-5159",
+        "Region":"SER"
+    },
+    {
+        "Name":"BLUESTONE      ",
+        "Type":"NSR",
+        "Park Code":"BLUE",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"BOOKER T. WASHINGTON",
+        "Type":"NM",
+        "Park Code":"BOWA",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"BOSTON    ",
+        "Type":"NHP",
+        "Park Code":"BOST",
+        "Org Code":1720,
+        "Region":"NER"
+    },
+    {
+        "Name":"BOSTON AFRICAN AMERICAN",
+        "Type":"NHS",
+        "Park Code":"BOAF",
+        "Org Code":1723,
+        "Region":"NER"
+    },
+    {
+        "Name":"BOSTON HARBOR ISLANDS  ",
+        "Type":"NRA",
+        "Park Code":"BOHA",
+        "Org Code":1727,
+        "Region":"NER"
+    },
+    {
+        "Name":"BRICES CROSS ROADS",
+        "Type":"NB Site",
+        "Park Code":"BRCR",
+        "Org Code":null,
+        "Region":"SER"
+    },
+    {
+        "Name":"BROWN V. BOARD OF EDUCATION       ",
+        "Type":"NHS",
+        "Park Code":"BRVB",
+        "Org Code":6145,
+        "Region":"MWR"
+    },
+    {
+        "Name":"BRYCE CANYON    ",
+        "Type":"NP",
+        "Park Code":"BRCA",
+        "Org Code":"1330-1336",
+        "Region":"IMR"
+    },
+    {
+        "Name":"BUCK ISLAND REEF    ",
+        "Type":"NM",
+        "Park Code":"BUIS",
+        "Org Code":5270,
+        "Region":"SER"
+    },
+    {
+        "Name":"BUFFALO     ",
+        "Type":"NR",
+        "Park Code":"BUFF",
+        "Org Code":"7150-7159",
+        "Region":"MWR"
+    },
+    {
+        "Name":"CABRILLO    ",
+        "Type":"NM",
+        "Park Code":"CABR",
+        "Org Code":8110,
+        "Region":"PWR"
+    },
+    {
+        "Name":"CANAVERAL    ",
+        "Type":"NS",
+        "Park Code":"CANA",
+        "Org Code":5180,
+        "Region":"SER"
+    },
+    {
+        "Name":"CANE RIVER CREOLE",
+        "Type":"NHP",
+        "Park Code":"CARI",
+        "Org Code":5720,
+        "Region":"SER"
+    },
+    {
+        "Name":"CANYON DE CHELLY    ",
+        "Type":"NM",
+        "Park Code":"CACH",
+        "Org Code":7390,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CANYONLANDS    ",
+        "Type":"NP",
+        "Park Code":"CANY",
+        "Org Code":"1341-1347",
+        "Region":"IMR"
+    },
+    {
+        "Name":"CAPE COD    ",
+        "Type":"NS",
+        "Park Code":"CACO",
+        "Org Code":1730,
+        "Region":"NER"
+    },
+    {
+        "Name":"CAPE HATTERAS    ",
+        "Type":"NS",
+        "Park Code":"CAHA",
+        "Org Code":"5185-5200",
+        "Region":"SER"
+    },
+    {
+        "Name":"CAPE KRUSENSTERN    ",
+        "Type":"NM",
+        "Park Code":"CAKR",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"CAPE LOOKOUT    ",
+        "Type":"NS",
+        "Park Code":"CALO",
+        "Org Code":5210,
+        "Region":"SER"
+    },
+    {
+        "Name":"CAPITOL REEF    ",
+        "Type":"NP",
+        "Park Code":"CARE",
+        "Org Code":1350,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CAPULIN VOLCANO    ",
+        "Type":"NM",
+        "Park Code":"CAVO",
+        "Org Code":7160,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CARL SANDBURG HOME      ",
+        "Type":"NHS",
+        "Park Code":"CARL",
+        "Org Code":5160,
+        "Region":"SER"
+    },
+    {
+        "Name":"CARLSBAD CAVERNS    ",
+        "Type":"NP",
+        "Park Code":"CAVE",
+        "Org Code":"7171-7179",
+        "Region":"IMR"
+    },
+    {
+        "Name":"CARTER G. WOODSON HOME",
+        "Type":"NHS",
+        "Park Code":"CAWO",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"CASA GRANDE RUINS    ",
+        "Type":"NM",
+        "Park Code":"CAGR",
+        "Org Code":8610,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CASTILLO de SAN MARCOS    ",
+        "Type":"NM",
+        "Park Code":"CASA",
+        "Org Code":5260,
+        "Region":"SER"
+    },
+    {
+        "Name":"CASTLE CLINTON ",
+        "Type":"NM",
+        "Park Code":"CACL",
+        "Org Code":1812,
+        "Region":"NER"
+    },
+    {
+        "Name":"CASTLE MOUNTAIN",
+        "Type":"NM",
+        "Park Code":"CAMO",
+        "Org Code":"8380-8388",
+        "Region":"PWR"
+    },
+    {
+        "Name":"CATOCTIN MOUNTAIN  ",
+        "Type":"PARK",
+        "Park Code":"CATO",
+        "Org Code":3201,
+        "Region":"NCR"
+    },
+    {
+        "Name":"CEDAR BREAKS    ",
+        "Type":"NM",
+        "Park Code":"CEBR",
+        "Org Code":1360,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CEDAR CREEK & BELLE GROVE",
+        "Type":"NHP",
+        "Park Code":"CEBE",
+        "Org Code":4240,
+        "Region":"NER"
+    },
+    {
+        "Name":"CESAR E. CHAVEZ",
+        "Type":"NM",
+        "Park Code":"CECH",
+        "Org Code":8551,
+        "Region":"PWR"
+    },
+    {
+        "Name":"CHANNEL ISLANDS    ",
+        "Type":"NP",
+        "Park Code":"CHIS",
+        "Org Code":"8120-8129",
+        "Region":"PWR"
+    },
+    {
+        "Name":"CHACO CULTURE    ",
+        "Type":"NHP",
+        "Park Code":"CHCU",
+        "Org Code":7400,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CHAMIZAL    ",
+        "Type":"NMEM",
+        "Park Code":"CHAM",
+        "Org Code":"7210-7219",
+        "Region":"IMR"
+    },
+    {
+        "Name":"CHARLES PINCKNEY       ",
+        "Type":"NHS",
+        "Park Code":"CHPI",
+        "Org Code":5440,
+        "Region":"SER"
+    },
+    {
+        "Name":"CHARLES YOUNG BUFFALO SOLDIERS",
+        "Type":"NM",
+        "Park Code":"CHYO",
+        "Org Code":6240,
+        "Region":"MWR"
+    },
+    {
+        "Name":"CHATTAHOOCHEE RIVER     ",
+        "Type":"NRA",
+        "Park Code":"CHAT",
+        "Org Code":5340,
+        "Region":"SER"
+    },
+    {
+        "Name":"CHESAPEAKE AND OHIO CANAL   ",
+        "Type":"NHP",
+        "Park Code":"CHOH",
+        "Org Code":"3101-3118",
+        "Region":"NCR"
+    },
+    {
+        "Name":"CHICKAMAUGA AND CHATTANOOGA   ",
+        "Type":"NMP",
+        "Park Code":"CHCH",
+        "Org Code":"5220-5221",
+        "Region":"SER"
+    },
+    {
+        "Name":"CHICKASAW    ",
+        "Type":"NRA",
+        "Park Code":"CHIC",
+        "Org Code":"7510-7519",
+        "Region":"IMR"
+    },
+    {
+        "Name":"CHIRICAHUA    ",
+        "Type":"NM",
+        "Park Code":"CHIR",
+        "Org Code":8620,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CHRISTIANSTED       ",
+        "Type":"NHS",
+        "Park Code":"CHRI",
+        "Org Code":5380,
+        "Region":"SER"
+    },
+    {
+        "Name":"CITY OF ROCKS NATIONAL RESERVE",
+        "Type":"OTHER",
+        "Park Code":"CIRO",
+        "Org Code":9606,
+        "Region":"PWR"
+    },
+    {
+        "Name":"CLARA BARTON  ",
+        "Type":"NHS",
+        "Park Code":"CLBA",
+        "Org Code":3340,
+        "Region":"NCR"
+    },
+    {
+        "Name":"COLONIAL ",
+        "Type":"NHP",
+        "Park Code":"COLO",
+        "Org Code":"4290-4299",
+        "Region":"NER"
+    },
+    {
+        "Name":"COLORADO    ",
+        "Type":"NM",
+        "Park Code":"COLM",
+        "Org Code":1378,
+        "Region":"IMR"
+    },
+    {
+        "Name":"COLTSVILLE**",
+        "Type":"NHP",
+        "Park Code":"COLT",
+        "Org Code":"**Authorized NOT established",
+        "Region":"NER"
+    },
+    {
+        "Name":"CONGAREE      ",
+        "Type":"NP",
+        "Park Code":"CONG",
+        "Org Code":5240,
+        "Region":"SER"
+    },
+    {
+        "Name":"CONSTITUTION GARDENS",
+        "Type":"OTHER",
+        "Park Code":"COGA",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"CORONADO    ",
+        "Type":"NMEM",
+        "Park Code":"CORO",
+        "Org Code":8630,
+        "Region":"IMR"
+    },
+    {
+        "Name":"COWPENS     ",
+        "Type":"NB",
+        "Park Code":"COWP",
+        "Org Code":5510,
+        "Region":"SER"
+    },
+    {
+        "Name":"CRATER LAKE    ",
+        "Type":"NP",
+        "Park Code":"CRLA",
+        "Org Code":"9320 - 9324",
+        "Region":"PWR"
+    },
+    {
+        "Name":"CRATERS OF THE MOON    ",
+        "Type":"NPRES",
+        "Park Code":"CRMO",
+        "Org Code":9280,
+        "Region":"PWR"
+    },
+    {
+        "Name":"CRATERS OF THE MOON    ",
+        "Type":"NM",
+        "Park Code":"CRMO",
+        "Org Code":9280,
+        "Region":"PWR"
+    },
+    {
+        "Name":"CUMBERLAND GAP      ",
+        "Type":"NHP",
+        "Park Code":"CUGA",
+        "Org Code":5230,
+        "Region":"SER"
+    },
+    {
+        "Name":"CUMBERLAND ISLAND     ",
+        "Type":"NS",
+        "Park Code":"CUIS",
+        "Org Code":5630,
+        "Region":"SER"
+    },
+    {
+        "Name":"CURECANTI    ",
+        "Type":"NRA",
+        "Park Code":"CURE",
+        "Org Code":1379,
+        "Region":"IMR"
+    },
+    {
+        "Name":"CUYAHOGA VALLEY     ",
+        "Type":"NP",
+        "Park Code":"CUVA",
+        "Org Code":"6160-6169",
+        "Region":"MWR"
+    },
+    {
+        "Name":"DAYTON AVIATION HERITAGE",
+        "Type":"NHP",
+        "Park Code":"DAAV",
+        "Org Code":6295,
+        "Region":"MWR"
+    },
+    {
+        "Name":"DEATH VALLEY    ",
+        "Type":"NP",
+        "Park Code":"DEVA",
+        "Org Code":"8130-8138",
+        "Region":"PWR"
+    },
+    {
+        "Name":"DE SOTO     ",
+        "Type":"NMEM",
+        "Park Code":"DESO",
+        "Org Code":5300,
+        "Region":"SER"
+    },
+    {
+        "Name":"DELAWARE WATER GAP ",
+        "Type":"NRA",
+        "Park Code":"DEWA",
+        "Org Code":4320,
+        "Region":"NER"
+    },
+    {
+        "Name":"DENALI     ",
+        "Type":"NP",
+        "Park Code":"DENA",
+        "Org Code":"9830-9834, \n9836-9839",
+        "Region":"AKR"
+    },
+    {
+        "Name":"DENALI     ",
+        "Type":"NPRES",
+        "Park Code":"DENA",
+        "Org Code":"9830-9834, \n9836-9839",
+        "Region":"AKR"
+    },
+    {
+        "Name":"DEVILS TOWER    ",
+        "Type":"NM",
+        "Park Code":"DETO",
+        "Org Code":1390,
+        "Region":"IMR"
+    },
+    {
+        "Name":"DINOSAUR    ",
+        "Type":"NM",
+        "Park Code":"DINO",
+        "Org Code":"1400-1405",
+        "Region":"IMR"
+    },
+    {
+        "Name":"DEVILS POSTPILE    ",
+        "Type":"NM",
+        "Park Code":"DEPO",
+        "Org Code":8590,
+        "Region":"PWR"
+    },
+    {
+        "Name":"DRY TORTUGAS     ",
+        "Type":"NP",
+        "Park Code":"DRTO",
+        "Org Code":"5281-5299",
+        "Region":"SER"
+    },
+    {
+        "Name":"EBEY'S LANDING NATIONAL HISTORICAL RESERVE  ",
+        "Type":"OTHER",
+        "Park Code":"EBLA",
+        "Org Code":9290,
+        "Region":"PWR"
+    },
+    {
+        "Name":"EDGAR ALLAN POE  ",
+        "Type":"NHS",
+        "Park Code":"EDAL",
+        "Org Code":4330,
+        "Region":"NER"
+    },
+    {
+        "Name":"EFFIGY MOUNDS     ",
+        "Type":"NM",
+        "Park Code":"EFMO",
+        "Org Code":6290,
+        "Region":"MWR"
+    },
+    {
+        "Name":"EISENHOWER  ",
+        "Type":"NHS",
+        "Park Code":"EISE",
+        "Org Code":4410,
+        "Region":"NER"
+    },
+    {
+        "Name":"EL MALPAIS    ",
+        "Type":"NM",
+        "Park Code":"ELMA",
+        "Org Code":7190,
+        "Region":"IMR"
+    },
+    {
+        "Name":"EL MORRO    ",
+        "Type":"NM",
+        "Park Code":"ELMO",
+        "Org Code":7410,
+        "Region":"IMR"
+    },
+    {
+        "Name":"ELEANOR ROOSEVELT   ",
+        "Type":"NHS",
+        "Park Code":"ELRO",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"EUGENE O'NEILL      ",
+        "Type":"NHS",
+        "Park Code":"EUON",
+        "Org Code":8190,
+        "Region":"PWR"
+    },
+    {
+        "Name":"EVERGLADES     ",
+        "Type":"NP",
+        "Park Code":"EVER",
+        "Org Code":"5281-5299",
+        "Region":"SER"
+    },
+    {
+        "Name":"FEDERAL HALL ",
+        "Type":"NMEM",
+        "Park Code":"FEHA",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"FIRE ISLAND    ",
+        "Type":"NS",
+        "Park Code":"FIIS",
+        "Org Code":1750,
+        "Region":"NER"
+    },
+    {
+        "Name":"FIRST LADIES'       ",
+        "Type":"NHS",
+        "Park Code":"FILA",
+        "Org Code":null,
+        "Region":"MWR"
+    },
+    {
+        "Name":"FIRST STATE",
+        "Type":"NHP",
+        "Park Code":"FRST",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"FLIGHT 93  ",
+        "Type":"NMEM",
+        "Park Code":"FLNI",
+        "Org Code":4140,
+        "Region":"NER"
+    },
+    {
+        "Name":"FLORISSANT FOSSIL BEDS    ",
+        "Type":"NM",
+        "Park Code":"FLFO",
+        "Org Code":1410,
+        "Region":"IMR"
+    },
+    {
+        "Name":"FORD'S THEATRE  ",
+        "Type":"NHS",
+        "Park Code":"FOTH",
+        "Org Code":"3460-3466",
+        "Region":"NCR"
+    },
+    {
+        "Name":"FORT BOWIE      ",
+        "Type":"NHS",
+        "Park Code":"FOBO",
+        "Org Code":8640,
+        "Region":"IMR"
+    },
+    {
+        "Name":"FORT CAROLINE     ",
+        "Type":"NMEM",
+        "Park Code":"FOCA",
+        "Org Code":5310,
+        "Region":"SER"
+    },
+    {
+        "Name":"FORT DAVIS      ",
+        "Type":"NHS",
+        "Park Code":"FODA",
+        "Org Code":5310,
+        "Region":"IMR"
+    },
+    {
+        "Name":"FORT DONELSON  ",
+        "Type":"NB",
+        "Park Code":"FODO",
+        "Org Code":"5400&5409",
+        "Region":"SER"
+    },
+    {
+        "Name":"FORT FREDERICA     ",
+        "Type":"NM",
+        "Park Code":"FOFR",
+        "Org Code":5410,
+        "Region":"SER"
+    },
+    {
+        "Name":"FORT LARAMIE      ",
+        "Type":"NHS",
+        "Park Code":"FOLA",
+        "Org Code":1420,
+        "Region":"IMR"
+    },
+    {
+        "Name":"FORT LARNED       ",
+        "Type":"NHS",
+        "Park Code":"FOLS",
+        "Org Code":6340,
+        "Region":"MWR"
+    },
+    {
+        "Name":"FORT MATANZAS     ",
+        "Type":"NM",
+        "Park Code":"FOMA",
+        "Org Code":"5281-5299",
+        "Region":"SER"
+    },
+    {
+        "Name":"FORT MCHENRY NATIONAL MONUMENT AND HISTORIC SHRINE",
+        "Type":"OTHER",
+        "Park Code":"FOMC",
+        "Org Code":4340,
+        "Region":"NER"
+    },
+    {
+        "Name":"FORT MONROE",
+        "Type":"NM",
+        "Park Code":"FOMR",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"FORT NECESSITY  ",
+        "Type":"NB",
+        "Park Code":"FONE",
+        "Org Code":4160,
+        "Region":"NER"
+    },
+    {
+        "Name":"FORT POINT      ",
+        "Type":"NHS",
+        "Park Code":"FOPO",
+        "Org Code":8160,
+        "Region":"PWR"
+    },
+    {
+        "Name":"FORT PULASKI     ",
+        "Type":"NM",
+        "Park Code":"FOPU",
+        "Org Code":5420,
+        "Region":"SER"
+    },
+    {
+        "Name":"FORT RALEIGH       ",
+        "Type":"NHS",
+        "Park Code":"FORA",
+        "Org Code":5185,
+        "Region":"SER"
+    },
+    {
+        "Name":"FORT SCOTT       ",
+        "Type":"NHS",
+        "Park Code":"FOSC",
+        "Org Code":6350,
+        "Region":"MWR"
+    },
+    {
+        "Name":"FORT SMITH       ",
+        "Type":"NHS",
+        "Park Code":"FOSM",
+        "Org Code":7320,
+        "Region":"MWR"
+    },
+    {
+        "Name":"FORT STANWIX ",
+        "Type":"NM",
+        "Park Code":"FOST",
+        "Org Code":1760,
+        "Region":"NER"
+    },
+    {
+        "Name":"FORT SUMTER                                (includes Fort Moultrie-FOMO)",
+        "Type":"NM",
+        "Park Code":"FOSU",
+        "Org Code":"5430&5440",
+        "Region":"SER"
+    },
+    {
+        "Name":"FORT UNION    ",
+        "Type":"NM",
+        "Park Code":"FOUN",
+        "Org Code":7230,
+        "Region":"IMR"
+    },
+    {
+        "Name":"FORT UNION TRADING POST       ",
+        "Type":"NHS",
+        "Park Code":"FOUS",
+        "Org Code":1549,
+        "Region":"MWR"
+    },
+    {
+        "Name":"FORT VANCOUVER      ",
+        "Type":"NHS",
+        "Park Code":"FOVA",
+        "Org Code":9430,
+        "Region":"PWR"
+    },
+    {
+        "Name":"FOVA unit: McLoughlin House",
+        "Type":null,
+        "Park Code":"FOVA",
+        "Org Code":9430,
+        "Region":"PWR"
+    },
+    {
+        "Name":"FORT WASHINGTON  ",
+        "Type":"PARK",
+        "Park Code":"FOWA",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"FOSSIL BUTTE    ",
+        "Type":"NM",
+        "Park Code":"FOBU",
+        "Org Code":1468,
+        "Region":"IMR"
+    },
+    {
+        "Name":"FRANKLIN DELANO ROOSEVELT  ",
+        "Type":"NMEM",
+        "Park Code":"FRDE",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"FREDERICK DOUGLASS ",
+        "Type":"NHS",
+        "Park Code":"FRDO",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"FREDRICK LAW OLMSTED  ",
+        "Type":"NHS",
+        "Park Code":"FRLA",
+        "Org Code":1850,
+        "Region":"NER"
+    },
+    {
+        "Name":"FREDRICKSBURG & SPOTSYLVANIA ",
+        "Type":"NMP",
+        "Park Code":"FRSP",
+        "Org Code":"4370\/4378\/ 4379",
+        "Region":"NER"
+    },
+    {
+        "Name":"FREEDOM RIDERS",
+        "Type":"NM",
+        "Park Code":"FRRI",
+        "Org Code":5740,
+        "Region":"SER"
+    },
+    {
+        "Name":"FRIENDSHIP HILL  ",
+        "Type":"NHS",
+        "Park Code":"FRHI",
+        "Org Code":4360,
+        "Region":"NER"
+    },
+    {
+        "Name":"GATES OF THE ARCTIC    ",
+        "Type":"NP",
+        "Park Code":"GAAR",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"GATES OF THE ARCTIC     ",
+        "Type":"NPRES",
+        "Park Code":"GAAR",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"GATEWAY  ",
+        "Type":"NRA",
+        "Park Code":"GATE",
+        "Org Code":1770,
+        "Region":"NER"
+    },
+    {
+        "Name":"GATEWAY ARCH NATIONAL PARK",
+        "Type":"MEM",
+        "Park Code":"JEFF",
+        "Org Code":null,
+        "Region":"MWR"
+    },
+    {
+        "Name":"GAULEY    ",
+        "Type":"NRA",
+        "Park Code":"GARI",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"GENERAL GRANT  ",
+        "Type":"NMEM",
+        "Park Code":"GEGR",
+        "Org Code":1814,
+        "Region":"NER"
+    },
+    {
+        "Name":"GEORGE ROGERS CLARK    ",
+        "Type":"NHP",
+        "Park Code":"GERO",
+        "Org Code":6402,
+        "Region":"MWR"
+    },
+    {
+        "Name":"GEORGE WASHINGTON BIRTHPLACE",
+        "Type":"NM",
+        "Park Code":"GEWA",
+        "Org Code":4380,
+        "Region":"NER"
+    },
+    {
+        "Name":"GEORGE WASHINGTON CARVER     ",
+        "Type":"NM",
+        "Park Code":"GWCA",
+        "Org Code":6360,
+        "Region":"MWR"
+    },
+    {
+        "Name":"GEORGE WASHINGTON MEMORIAL PARKWAY (Arlington House, Great Falls Park, Glen Echo Park, Clara Barton NHS, Arlington Cemetery, Jones Point Park, Fort Hunt Park, Theodore Roosevelt Island NM)",
+        "Type":"MEMPW",
+        "Park Code":"GWMP",
+        "Org Code":"3301-3321",
+        "Region":"NCR"
+    },
+    {
+        "Name":"GETTYSBURG  ",
+        "Type":"NMP",
+        "Park Code":"GETT",
+        "Org Code":4400,
+        "Region":"NER"
+    },
+    {
+        "Name":"GILA CLIFF DWELLINGS    ",
+        "Type":"NM",
+        "Park Code":"GICL",
+        "Org Code":7250,
+        "Region":"IMR"
+    },
+    {
+        "Name":"GLACIER    ",
+        "Type":"NP",
+        "Park Code":"GLAC",
+        "Org Code":"1430 - 1437",
+        "Region":"IMR"
+    },
+    {
+        "Name":"GLACIER BAY    ",
+        "Type":"NP",
+        "Park Code":"GLBA",
+        "Org Code":9815,
+        "Region":"AKR"
+    },
+    {
+        "Name":"GLACIER BAY     ",
+        "Type":"NPRES",
+        "Park Code":"GLBA",
+        "Org Code":9815,
+        "Region":"AKR"
+    },
+    {
+        "Name":"GLEN CANYON    ",
+        "Type":"NRA",
+        "Park Code":"GLCA",
+        "Org Code":"1440-1444",
+        "Region":"IMR"
+    },
+    {
+        "Name":"GOLDEN GATE    ",
+        "Type":"NRA",
+        "Park Code":"GOGA",
+        "Org Code":"8140 - 8180",
+        "Region":"PWR"
+    },
+    {
+        "Name":"GOLDEN SPIKE      ",
+        "Type":"NHS",
+        "Park Code":"GOSP",
+        "Org Code":1450,
+        "Region":"IMR"
+    },
+    {
+        "Name":"GOVERNORS ISLAND",
+        "Type":"NM",
+        "Park Code":"GOIS",
+        "Org Code":1766,
+        "Region":"NER"
+    },
+    {
+        "Name":"GRAND CANYON    ",
+        "Type":"NP",
+        "Park Code":"GRCA",
+        "Org Code":"8211-8227",
+        "Region":"IMR"
+    },
+    {
+        "Name":"GRAND CANYON PARASHANT",
+        "Type":"NM",
+        "Park Code":"PARA",
+        "Org Code":8230,
+        "Region":"PWR"
+    },
+    {
+        "Name":"GRAND PORTAGE     ",
+        "Type":"NM",
+        "Park Code":"GRPO",
+        "Org Code":6150,
+        "Region":"MWR"
+    },
+    {
+        "Name":"GRAND TETON    ",
+        "Type":"NP",
+        "Park Code":"GRTE",
+        "Org Code":"1460 - 1467",
+        "Region":"IMR"
+    },
+    {
+        "Name":"GRANT-KOHRS RANCH      ",
+        "Type":"NHS",
+        "Park Code":"GRKO",
+        "Org Code":1586,
+        "Region":"IMR"
+    },
+    {
+        "Name":"GREAT BASIN    ",
+        "Type":"NP",
+        "Park Code":"GRBA",
+        "Org Code":8420,
+        "Region":"PWR"
+    },
+    {
+        "Name":"GREAT EGG HARBOR ",
+        "Type":"S&RR",
+        "Park Code":"GREG",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"GREAT SAND DUNES    ",
+        "Type":"NP",
+        "Park Code":"GRSA",
+        "Org Code":1470,
+        "Region":"IMR"
+    },
+    {
+        "Name":"GREAT SAND DUNES      ",
+        "Type":"PRES",
+        "Park Code":"GRSA",
+        "Org Code":1470,
+        "Region":"IMR"
+    },
+    {
+        "Name":"GREAT SMOKY MOUNTAINS     ",
+        "Type":"NP",
+        "Park Code":"GRSM",
+        "Org Code":5460,
+        "Region":"SER"
+    },
+    {
+        "Name":"GREENBELT  ",
+        "Type":"PARK",
+        "Park Code":"GREE",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"GUADALUPE MOUNTAINS    ",
+        "Type":"NP",
+        "Park Code":"GUMO",
+        "Org Code":"7181-7189",
+        "Region":"IMR"
+    },
+    {
+        "Name":"GUILFORD COURTHOUSE       ",
+        "Type":"NMP",
+        "Park Code":"GUCO",
+        "Org Code":5170,
+        "Region":"SER"
+    },
+    {
+        "Name":"GULF ISLANDS     ",
+        "Type":"NS",
+        "Park Code":"GUIS",
+        "Org Code":"5320-5326",
+        "Region":"SER"
+    },
+    {
+        "Name":"HAGERMAN FOSSIL BEDS    ",
+        "Type":"NM",
+        "Park Code":"HAFO",
+        "Org Code":"9608 9360",
+        "Region":"PWR"
+    },
+    {
+        "Name":"HALEAKALA    ",
+        "Type":"NP",
+        "Park Code":"HALE",
+        "Org Code":"8291-8299",
+        "Region":"PWR"
+    },
+    {
+        "Name":"HAMILTON GRANGE NM",
+        "Type":"NMEM",
+        "Park Code":"HAGR",
+        "Org Code":1815,
+        "Region":"NER"
+    },
+    {
+        "Name":"HAMPTON  ",
+        "Type":"NHS",
+        "Park Code":"HAMP",
+        "Org Code":4350,
+        "Region":"NER"
+    },
+    {
+        "Name":"HARPERS FERRY   ",
+        "Type":"NHP",
+        "Park Code":"HAFE",
+        "Org Code":"3851-3856",
+        "Region":"NCR"
+    },
+    {
+        "Name":"HARRIET TUBMAN ",
+        "Type":"NHP",
+        "Park Code":"HART",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"HARRIET TUBMAN UNDERGROUND RAILROAD",
+        "Type":"NHP",
+        "Park Code":"HATU",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"HARRY S TRUMAN       ",
+        "Type":"NHS",
+        "Park Code":"HSTR",
+        "Org Code":6460,
+        "Region":"MWR"
+    },
+    {
+        "Name":"HAWAII VOLCANOES    ",
+        "Type":"NP",
+        "Park Code":"HAVO",
+        "Org Code":"8301-8306",
+        "Region":"PWR"
+    },
+    {
+        "Name":"HERBERT HOOVER       ",
+        "Type":"NHS",
+        "Park Code":"HEHO",
+        "Org Code":6470,
+        "Region":"MWR"
+    },
+    {
+        "Name":"HOHOKAM PIMA    ",
+        "Type":"NM",
+        "Park Code":"PIMA",
+        "Org Code":null,
+        "Region":"IMR"
+    },
+    {
+        "Name":"HOME OF FRANKLIN D. ROOSEVELT  ",
+        "Type":"NHS",
+        "Park Code":"HOFR",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"HOMESTEAD     ",
+        "Type":"NM",
+        "Park Code":"HOME",
+        "Org Code":6480,
+        "Region":"MWR"
+    },
+    {
+        "Name":"HONOULIULI",
+        "Type":"NM",
+        "Park Code":"HONO",
+        "Org Code":8890,
+        "Region":"PWR"
+    },
+    {
+        "Name":"HOPEWELL CULTURE       ",
+        "Type":"NHP",
+        "Park Code":"HOCU",
+        "Org Code":6514,
+        "Region":"MWR"
+    },
+    {
+        "Name":"HOPEWELL FURNACE  ",
+        "Type":"NHS",
+        "Park Code":"HOFU",
+        "Org Code":4430,
+        "Region":"NER"
+    },
+    {
+        "Name":"HORSESHOE BEND       ",
+        "Type":"NMP",
+        "Park Code":"HOBE",
+        "Org Code":5480,
+        "Region":"SER"
+    },
+    {
+        "Name":"HOT SPRINGS     ",
+        "Type":"NP",
+        "Park Code":"HOSP",
+        "Org Code":"7300-7309",
+        "Region":"MWR"
+    },
+    {
+        "Name":"HOVENWEEP    ",
+        "Type":"NM",
+        "Park Code":"HOVE",
+        "Org Code":1347,
+        "Region":"IMR"
+    },
+    {
+        "Name":"HUBBELL TRADING POST      ",
+        "Type":"NHS",
+        "Park Code":"HUTR",
+        "Org Code":7420,
+        "Region":"IMR"
+    },
+    {
+        "Name":"INDEPENDENCE  ",
+        "Type":"NHP",
+        "Park Code":"INDE",
+        "Org Code":4450,
+        "Region":"NER"
+    },
+    {
+        "Name":"INDIANA DUNES     ",
+        "Type":"NL",
+        "Park Code":"INDU",
+        "Org Code":6300,
+        "Region":"MWR"
+    },
+    {
+        "Name":"ISLE ROYALE     ",
+        "Type":"NP",
+        "Park Code":"ISRO",
+        "Org Code":6310,
+        "Region":"MWR"
+    },
+    {
+        "Name":"JAMES A. GARFIELD       ",
+        "Type":"NHS",
+        "Park Code":"JAGA",
+        "Org Code":"6170, 6380",
+        "Region":"MWR"
+    },
+    {
+        "Name":"JEAN LAFITTE    ",
+        "Type":"NHP & PRES",
+        "Park Code":"JELA",
+        "Org Code":"7530-7539",
+        "Region":"SER"
+    },
+    {
+        "Name":"JEWEL CAVE     ",
+        "Type":"NM",
+        "Park Code":"JECA",
+        "Org Code":1569,
+        "Region":"MWR"
+    },
+    {
+        "Name":"JIMMY CARTER       ",
+        "Type":"NHS",
+        "Park Code":"JICA",
+        "Org Code":5690,
+        "Region":"SER"
+    },
+    {
+        "Name":"JOHN DAY FOSSIL BEDS    ",
+        "Type":"NM",
+        "Park Code":"JODA",
+        "Org Code":9325,
+        "Region":"PWR"
+    },
+    {
+        "Name":"JOHN D. ROCKEFELLER, JR., ",
+        "Type":"MEMPW",
+        "Park Code":"JODR",
+        "Org Code":null,
+        "Region":"IMR"
+    },
+    {
+        "Name":"JOHN FITZGERALD KENNEDY  ",
+        "Type":"NHS",
+        "Park Code":"JOFI",
+        "Org Code":"1850 (1805)",
+        "Region":"NER"
+    },
+    {
+        "Name":"JOHN MUIR      ",
+        "Type":"NHS",
+        "Park Code":"JOMU",
+        "Org Code":8510,
+        "Region":"PWR"
+    },
+    {
+        "Name":"JOHNSTOWN FLOOD NM",
+        "Type":"NMEM",
+        "Park Code":"JOFL",
+        "Org Code":4150,
+        "Region":"NER"
+    },
+    {
+        "Name":"JOSHUA TREE    ",
+        "Type":"NP",
+        "Park Code":"JOTR",
+        "Org Code":"8330-8337",
+        "Region":"PWR"
+    },
+    {
+        "Name":"KALAUPAPA     ",
+        "Type":"NHP",
+        "Park Code":"KALA",
+        "Org Code":8896,
+        "Region":"PWR"
+    },
+    {
+        "Name":"KALOKO-HONOKOHAU     ",
+        "Type":"NHP",
+        "Park Code":"KAHO",
+        "Org Code":8320,
+        "Region":"PWR"
+    },
+    {
+        "Name":"KATAHDIN WOODS AND WATERS",
+        "Type":"NM",
+        "Park Code":"KAWW",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"KATMAI     ",
+        "Type":"NP",
+        "Park Code":"KATM",
+        "Org Code":9796,
+        "Region":"AKR"
+    },
+    {
+        "Name":"KATMAI      ",
+        "Type":"NPRES",
+        "Park Code":"KATM",
+        "Org Code":9796,
+        "Region":"AKR"
+    },
+    {
+        "Name":"KENAI  FJORDS     ",
+        "Type":"NP",
+        "Park Code":"KEFJ",
+        "Org Code":9845,
+        "Region":"AKR"
+    },
+    {
+        "Name":"KENNESAW MOUNTAIN       ",
+        "Type":"NBP",
+        "Park Code":"KEMO",
+        "Org Code":5490,
+        "Region":"SER"
+    },
+    {
+        "Name":"KEWEENAW       ",
+        "Type":"NHP",
+        "Park Code":"KEWE",
+        "Org Code":6410,
+        "Region":"MWR"
+    },
+    {
+        "Name":"KINGS CANYON    ",
+        "Type":"NP",
+        "Park Code":"SEKI",
+        "Org Code":8510,
+        "Region":"PWR"
+    },
+    {
+        "Name":"KINGS MOUNTAIN       ",
+        "Type":"NMP",
+        "Park Code":"KIMO",
+        "Org Code":5500,
+        "Region":"SER"
+    },
+    {
+        "Name":"KLONDIKE GOLD RUSH   ",
+        "Type":"NHP",
+        "Park Code":"KLSE",
+        "Org Code":9580,
+        "Region":"PWR"
+    },
+    {
+        "Name":"KLONDIKE GOLD RUSH   ",
+        "Type":"NHP",
+        "Park Code":"KLGO\n",
+        "Org Code":9825,
+        "Region":"AKR\n"
+    },
+    {
+        "Name":"KNIFE RIVER  INDIAN VILLAGES       ",
+        "Type":"NHS",
+        "Park Code":"KNRI",
+        "Org Code":1548,
+        "Region":"MWR"
+    },
+    {
+        "Name":"KOBUK VALLEY    ",
+        "Type":"NP",
+        "Park Code":"KOVA",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"KOREAN WAR VETERANS  ",
+        "Type":"NMEM",
+        "Park Code":"KOWA",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"LAKE CHELAN  ",
+        "Type":"NRA",
+        "Park Code":"LACH",
+        "Org Code":null,
+        "Region":"PWR"
+    },
+    {
+        "Name":"LAKE CLARK     ",
+        "Type":"NP",
+        "Park Code":"LACL",
+        "Org Code":9855,
+        "Region":"AKR"
+    },
+    {
+        "Name":"LAKE CLARK      ",
+        "Type":"NPRES",
+        "Park Code":"LACL",
+        "Org Code":9855,
+        "Region":"AKR"
+    },
+    {
+        "Name":"LAKE MEAD    ",
+        "Type":"NRA",
+        "Park Code":"LAKE",
+        "Org Code":8360,
+        "Region":"PWR"
+    },
+    {
+        "Name":"LAKE ROOSEVELT    ",
+        "Type":"NRA",
+        "Park Code":"LARO",
+        "Org Code":9260,
+        "Region":"PWR"
+    },
+    {
+        "Name":"LASSEN VOLCANIC    ",
+        "Type":"NP",
+        "Park Code":"LAVO",
+        "Org Code":8400,
+        "Region":"PWR"
+    },
+    {
+        "Name":"LAVA BEDS    ",
+        "Type":"NM",
+        "Park Code":"LABE",
+        "Org Code":8410,
+        "Region":"PWR"
+    },
+    {
+        "Name":"LAKE MEREDITH    ",
+        "Type":"NRA",
+        "Park Code":"LAMR",
+        "Org Code":"7540-7550",
+        "Region":"IMR"
+    },
+    {
+        "Name":"LEWIS AND CLARK  ",
+        "Type":"NHP",
+        "Park Code":"FOCL",
+        "Org Code":9420,
+        "Region":"PWR"
+    },
+    {
+        "Name":"LINCOLN  ",
+        "Type":"MEM",
+        "Park Code":"LIME",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"LINCOLN BOYHOOD     ",
+        "Type":"NMEM",
+        "Park Code":"LIBO",
+        "Org Code":6400,
+        "Region":"MWR"
+    },
+    {
+        "Name":"LINCOLN HOME        ",
+        "Type":"NHS",
+        "Park Code":"LIHO",
+        "Org Code":6530,
+        "Region":"MWR"
+    },
+    {
+        "Name":"LITTLE BIGHORN      ",
+        "Type":"NM",
+        "Park Code":"LIBI",
+        "Org Code":1320,
+        "Region":"IMR"
+    },
+    {
+        "Name":"LITTLE RIVER CANYON     ",
+        "Type":"NPRES",
+        "Park Code":"LIRI",
+        "Org Code":5279,
+        "Region":"SER"
+    },
+    {
+        "Name":"LITTLE ROCK CENTRAL HIGH SCHOOL ",
+        "Type":"NHS",
+        "Park Code":"CHSC",
+        "Org Code":7310,
+        "Region":"MWR"
+    },
+    {
+        "Name":"LONGFELLOW HOUSE -WASHINGTON'S HEADQUARTERS",
+        "Type":"NHS",
+        "Park Code":"LONG",
+        "Org Code":"1850 (1800)",
+        "Region":"NER"
+    },
+    {
+        "Name":"LOWELL  ",
+        "Type":"NHP",
+        "Park Code":"LOWE",
+        "Org Code":1780,
+        "Region":"NER"
+    },
+    {
+        "Name":"LYNDON B. JOHNSON    ",
+        "Type":"NHP",
+        "Park Code":"LYJO",
+        "Org Code":"\n7350-7359",
+        "Region":"IMR"
+    },
+    {
+        "Name":"LYNDON BAINES JOHNSON MEMORIAL GROVE ON THE POTOMAC",
+        "Type":"NMEM",
+        "Park Code":"GWMP",
+        "Org Code":"3301-3321",
+        "Region":"NCR"
+    },
+    {
+        "Name":"MAGGIE L. WALKER  ",
+        "Type":"NHS",
+        "Park Code":"MAWA",
+        "Org Code":4790,
+        "Region":"NER"
+    },
+    {
+        "Name":"MAMMOTH CAVE     ",
+        "Type":"NP",
+        "Park Code":"MACA",
+        "Org Code":"5530-5536",
+        "Region":"SER"
+    },
+    {
+        "Name":"MANASSAS      ",
+        "Type":"NBP",
+        "Park Code":"MANA",
+        "Org Code":3840,
+        "Region":"NCR"
+    },
+    {
+        "Name":"MANHATTAN PROJECT",
+        "Type":"NHP",
+        "Park Code":"MAPR",
+        "Org Code":1480,
+        "Region":"IMR"
+    },
+    {
+        "Name":"MANHATTAN PROJECT                                      Los Alamos Unit",
+        "Type":null,
+        "Park Code":"MAPR",
+        "Org Code":1480,
+        "Region":null
+    },
+    {
+        "Name":"MANHATTAN PROJECT_Oak Ridge, TN Unit",
+        "Type":null,
+        "Park Code":"MAPR",
+        "Org Code":1480,
+        "Region":null
+    },
+    {
+        "Name":"MANHATTAN PROJECT- Richland, WA Unit",
+        "Type":"NHP",
+        "Park Code":"MAPR",
+        "Org Code":null,
+        "Region":"PWR"
+    },
+    {
+        "Name":"MANZANAR      ",
+        "Type":"NHS",
+        "Park Code":"MANZ",
+        "Org Code":8760,
+        "Region":"PWR"
+    },
+    {
+        "Name":"MARSH-BILLINGS-ROCKEFELLER  ",
+        "Type":"NHP",
+        "Park Code":"MABI",
+        "Org Code":1818,
+        "Region":"NER"
+    },
+    {
+        "Name":"MARTIN LUTHER KING, JR.",
+        "Type":"NMEM",
+        "Park Code":null,
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"MARTIN LUTHER KING, JR.",
+        "Type":"NHP",
+        "Park Code":"MALU",
+        "Org Code":5560,
+        "Region":"SER"
+    },
+    {
+        "Name":"MARTIN VAN BUREN  ",
+        "Type":"NHS",
+        "Park Code":"MAVA",
+        "Org Code":1950,
+        "Region":"NER"
+    },
+    {
+        "Name":"MARY MCLEOD BETHUNE COUNCIL HOUSE  ",
+        "Type":"NHS",
+        "Park Code":"MAMC",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"MESA VERDE    ",
+        "Type":"NP",
+        "Park Code":"MEVE",
+        "Org Code":"1490-1496",
+        "Region":"IMR"
+    },
+    {
+        "Name":"MINUTE MAN  ",
+        "Type":"NHP",
+        "Park Code":"MIMA",
+        "Org Code":1820,
+        "Region":"NER"
+    },
+    {
+        "Name":"MINUTEMAN MISSILE       ",
+        "Type":"NHS",
+        "Park Code":"MIMI",
+        "Org Code":1305,
+        "Region":"MWR"
+    },
+    {
+        "Name":"MISSISSIPPI NATIONAL RIVER AND RECREATION AREA",
+        "Type":"NR&RA",
+        "Park Code":"MISS",
+        "Org Code":1305,
+        "Region":"MWR"
+    },
+    {
+        "Name":"MISSOURI NATIONAL RECREATIONAL RIVER",
+        "Type":"NRR",
+        "Park Code":"MNRR",
+        "Org Code":1305,
+        "Region":"MWR"
+    },
+    {
+        "Name":"MOJAVE    ",
+        "Type":"NP&PRES",
+        "Park Code":"MOJA",
+        "Org Code":"\n8380-8388\n",
+        "Region":"PWR"
+    },
+    {
+        "Name":"MONOCACY    ",
+        "Type":"NB",
+        "Park Code":"MONO",
+        "Org Code":"3130-3150",
+        "Region":"NCR"
+    },
+    {
+        "Name":"MONTEZUMA CASTLE    ",
+        "Type":"NM",
+        "Park Code":"MOCA",
+        "Org Code":8650,
+        "Region":"IMR"
+    },
+    {
+        "Name":"MOORES CREEK     ",
+        "Type":"NB",
+        "Park Code":"MOCR",
+        "Org Code":5550,
+        "Region":"SER"
+    },
+    {
+        "Name":"MORRISTOWN",
+        "Type":"NHP",
+        "Park Code":"MORR",
+        "Org Code":1830,
+        "Region":"NER"
+    },
+    {
+        "Name":"MOUNT RAINIER    ",
+        "Type":"NP",
+        "Park Code":"MORA",
+        "Org Code":"9450-9458",
+        "Region":"PWR"
+    },
+    {
+        "Name":"MOUNT RUSHMORE     ",
+        "Type":"NMEM",
+        "Park Code":"MORU",
+        "Org Code":1305,
+        "Region":"MWR"
+    },
+    {
+        "Name":"MUIR WOODS    ",
+        "Type":"NM",
+        "Park Code":"MUWO",
+        "Org Code":8180,
+        "Region":"PWR"
+    },
+    {
+        "Name":"NATCHEZ   ",
+        "Type":"NHP",
+        "Park Code":"NATC",
+        "Org Code":5565,
+        "Region":"SER"
+    },
+    {
+        "Name":"NATCHEZ TRACE NATIONAL SCENIC TRAIL       ",
+        "Type":"NST",
+        "Park Code":"NATR",
+        "Org Code":"5570-5578 ",
+        "Region":"SER"
+    },
+    {
+        "Name":"NATCHEZ TRACE PARKWAY  ",
+        "Type":"PW",
+        "Park Code":"NATR",
+        "Org Code":"5570-5578 ",
+        "Region":"SER"
+    },
+    {
+        "Name":"NATIONAL  MALL",
+        "Type":"OTHER",
+        "Park Code":"NAMA",
+        "Org Code":"3401-3430",
+        "Region":"NCR"
+    },
+    {
+        "Name":"NATIONAL CAPITAL PARKS - EAST (includes Fort Washington, Frederick Douglass, Greenbelt Park, Mary McLeod Bethune Council House, Oxen Hill, Carter G. Woodson, etc.)",
+        "Type":"OTHER",
+        "Park Code":"NACE",
+        "Org Code":"3501-3564",
+        "Region":"NCR"
+    },
+    {
+        "Name":"NATIONAL MALL AND MEMORIAL PARKS",
+        "Type":"OTHER",
+        "Park Code":"NAMA",
+        "Org Code":"3401-3430",
+        "Region":"NCR"
+    },
+    {
+        "Name":"MINIDOKA     ",
+        "Type":"NHS",
+        "Park Code":"MIIN",
+        "Org Code":9360,
+        "Region":"PWR"
+    },
+    {
+        "Name":"NATIONAL PARK  OF AMERICAN SAMOA",
+        "Type":"NP",
+        "Park Code":"NPSA",
+        "Org Code":8770,
+        "Region":"PWR"
+    },
+    {
+        "Name":"NATURAL BRIDGES    ",
+        "Type":"NM",
+        "Park Code":"NABR",
+        "Org Code":1349,
+        "Region":"IMR"
+    },
+    {
+        "Name":"NAVAJO    ",
+        "Type":"NM",
+        "Park Code":"NAVA",
+        "Org Code":7430,
+        "Region":"IMR"
+    },
+    {
+        "Name":"NEW BEDFORD WHALING ",
+        "Type":"NHP",
+        "Park Code":"NEBE",
+        "Org Code":1842,
+        "Region":"NER"
+    },
+    {
+        "Name":"NEW ORLEANS JAZZ    ",
+        "Type":"NHP",
+        "Park Code":"JAZZ",
+        "Org Code":5705,
+        "Region":"SER"
+    },
+    {
+        "Name":"NEW RIVER GORGE ",
+        "Type":"NR",
+        "Park Code":"NERI",
+        "Org Code":"4780\/4783-4788",
+        "Region":"NER"
+    },
+    {
+        "Name":"NEZ PERCE    ",
+        "Type":"NHP",
+        "Park Code":"NEPE",
+        "Org Code":"9370-9377",
+        "Region":"PWR"
+    },
+    {
+        "Name":"NICODEMUS       ",
+        "Type":"NHS",
+        "Park Code":"NICO",
+        "Org Code":6345,
+        "Region":"MWR"
+    },
+    {
+        "Name":"NINETY SIX       ",
+        "Type":"NHS",
+        "Park Code":"NISI",
+        "Org Code":5610,
+        "Region":"SER"
+    },
+    {
+        "Name":"NIOBRARA       ",
+        "Type":"NSR",
+        "Park Code":"NIOB",
+        "Org Code":6630,
+        "Region":"MWR"
+    },
+    {
+        "Name":"NOATAK    ",
+        "Type":"NPRES",
+        "Park Code":"NOAT",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"NORTH CASCADES    ",
+        "Type":"NP",
+        "Park Code":"NOCA",
+        "Org Code":"9470-9479",
+        "Region":"PWR"
+    },
+    {
+        "Name":"OBED      ",
+        "Type":"W&SR",
+        "Park Code":"OBRI",
+        "Org Code":5640,
+        "Region":"SER"
+    },
+    {
+        "Name":"OCMULGEE     ",
+        "Type":"NM",
+        "Park Code":"OCMU",
+        "Org Code":5620,
+        "Region":"SER"
+    },
+    {
+        "Name":"OLYMPIC    ",
+        "Type":"NP",
+        "Park Code":"OLYM",
+        "Org Code":"9500-9512",
+        "Region":"PWR"
+    },
+    {
+        "Name":"OREGON CAVES    ",
+        "Type":"NM&PRE",
+        "Park Code":"ORCA",
+        "Org Code":9340,
+        "Region":"PWR"
+    },
+    {
+        "Name":"ORGAN PIPE CACTUS    ",
+        "Type":"NM",
+        "Park Code":"ORPI",
+        "Org Code":8660,
+        "Region":"IMR"
+    },
+    {
+        "Name":"OVERMOUNTAIN VICTORY",
+        "Type":"NHT",
+        "Park Code":"OVVI",
+        "Org Code":5520,
+        "Region":"SER"
+    },
+    {
+        "Name":"OZARK NATIONAL SCENIC RIVERWAY",
+        "Type":"NSR",
+        "Park Code":"OZAR",
+        "Org Code":6640,
+        "Region":"MWR"
+    },
+    {
+        "Name":"PADRE ISLAND    ",
+        "Type":"NS",
+        "Park Code":"PAIS",
+        "Org Code":"7490-7499",
+        "Region":"IMR"
+    },
+    {
+        "Name":"PALO ALTO        ",
+        "Type":"NHP",
+        "Park Code":"PAAL",
+        "Org Code":7580,
+        "Region":"IMR"
+    },
+    {
+        "Name":"PARASHANT",
+        "Type":"NM",
+        "Park Code":"PARA",
+        "Org Code":null,
+        "Region":"PWR"
+    },
+    {
+        "Name":"PATERSON GREAT FALLS",
+        "Type":"NHP",
+        "Park Code":"PAGR",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"PEA RIDGE       ",
+        "Type":"NMP",
+        "Park Code":"PERI",
+        "Org Code":7330,
+        "Region":"MWR"
+    },
+    {
+        "Name":"PEARL HARBOR (USS Arizona) (Honouliuli NM) ",
+        "Type":"NMEM",
+        "Park Code":"PERL",
+        "Org Code":8895,
+        "Region":"PWR"
+    },
+    {
+        "Name":"PECOS    ",
+        "Type":"NHP",
+        "Park Code":"PECO",
+        "Org Code":7500,
+        "Region":"IMR"
+    },
+    {
+        "Name":"PENNSYLVANIA AVENUE  ",
+        "Type":"NHS",
+        "Park Code":"PAAV",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"PERRY\u2019S VICTORY AND INTERNATIONAL PEACE MEMORIAL",
+        "Type":"NMEM",
+        "Park Code":"PEVI",
+        "Org Code":6516,
+        "Region":"MWR"
+    },
+    {
+        "Name":"PETERSBURG      ",
+        "Type":"NB",
+        "Park Code":"PETE",
+        "Org Code":4770,
+        "Region":"NER"
+    },
+    {
+        "Name":"PETRIFIED FOREST    ",
+        "Type":"NP",
+        "Park Code":"PEFO",
+        "Org Code":8430,
+        "Region":"IMR"
+    },
+    {
+        "Name":"PETROGLYPH    ",
+        "Type":"NM",
+        "Park Code":"PETR",
+        "Org Code":7570,
+        "Region":"IMR"
+    },
+    {
+        "Name":"PICTURED ROCKS     ",
+        "Type":"NL",
+        "Park Code":"PIRO",
+        "Org Code":6516,
+        "Region":"MWR"
+    },
+    {
+        "Name":"PIPE SPRING    ",
+        "Type":"NM",
+        "Park Code":"PISP",
+        "Org Code":1510,
+        "Region":"IMR"
+    },
+    {
+        "Name":"PIPESTONE     ",
+        "Type":"NM",
+        "Park Code":"PIPE",
+        "Org Code":6540,
+        "Region":"MWR"
+    },
+    {
+        "Name":"PINNACLES    ",
+        "Type":"NP",
+        "Park Code":"PINN",
+        "Org Code":8450,
+        "Region":"PWR"
+    },
+    {
+        "Name":"PISCATAWAY  ",
+        "Type":"PARK",
+        "Park Code":"PISC",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"POINT REYES    ",
+        "Type":"NS",
+        "Park Code":"PORE",
+        "Org Code":8450,
+        "Region":"PWR"
+    },
+    {
+        "Name":"PU'UHONUA O HONAUNAU     ",
+        "Type":"NHP",
+        "Park Code":"PUHO",
+        "Org Code":"8280-8283",
+        "Region":"PWR"
+    },
+    {
+        "Name":"PU'UKOHOLA HEIAU      ",
+        "Type":"NHS",
+        "Park Code":"PUHE",
+        "Org Code":"8310-8313",
+        "Region":"PWR"
+    },
+    {
+        "Name":"PORT CHICAGO NAVAL MAGAZINE",
+        "Type":"NM",
+        "Park Code":"POCH",
+        "Org Code":8500,
+        "Region":"PWR"
+    },
+    {
+        "Name":"POTOMAC HERITAGE      ",
+        "Type":"NST",
+        "Park Code":"POHT",
+        "Org Code":3991,
+        "Region":"NCR"
+    },
+    {
+        "Name":"POVERTY POINT STATE    ",
+        "Type":"NM",
+        "Park Code":"POPO",
+        "Org Code":null,
+        "Region":"SER"
+    },
+    {
+        "Name":"PRESIDENT WILLIAM JEFFERSON CLINTON BIRTHPLACE HOME",
+        "Type":"NHS",
+        "Park Code":"WICL",
+        "Org Code":6365,
+        "Region":"MWR"
+    },
+    {
+        "Name":"PRINCE WILLIAM FOREST PARK",
+        "Type":"OTHER",
+        "Park Code":"PRWI",
+        "Org Code":"3701-3714",
+        "Region":"NCR"
+    },
+    {
+        "Name":"PULLMAN",
+        "Type":"NM",
+        "Park Code":"PULL",
+        "Org Code":null,
+        "Region":"MWR"
+    },
+    {
+        "Name":"RAINBOW BRIDGE    ",
+        "Type":"NM",
+        "Park Code":"RABR",
+        "Org Code":1449,
+        "Region":"IMR"
+    },
+    {
+        "Name":"RECONSTRUCTION ERA",
+        "Type":"NM",
+        "Park Code":"REER",
+        "Org Code":5750,
+        "Region":"SER"
+    },
+    {
+        "Name":"REDWOOD",
+        "Type":"NP",
+        "Park Code":"REDW",
+        "Org Code":8480,
+        "Region":"PWR"
+    },
+    {
+        "Name":"RICHMOND      ",
+        "Type":"NBP",
+        "Park Code":"RICH",
+        "Org Code":"4800-4804",
+        "Region":"NER"
+    },
+    {
+        "Name":"RIO GRANDE      ",
+        "Type":"W&SR",
+        "Park Code":"RIGR",
+        "Org Code":7560,
+        "Region":"IMR"
+    },
+    {
+        "Name":"RIVER RAISIN ",
+        "Type":"NBP",
+        "Park Code":"RIRA",
+        "Org Code":6495,
+        "Region":"MWR"
+    },
+    {
+        "Name":"ROCK CREEK  ",
+        "Type":"PARK",
+        "Park Code":"ROCR",
+        "Org Code":"3451-3459",
+        "Region":"NCR"
+    },
+    {
+        "Name":"ROCKY MOUNTAIN    ",
+        "Type":"NP",
+        "Park Code":"ROMO",
+        "Org Code":"1520-1529",
+        "Region":"IMR"
+    },
+    {
+        "Name":"ROGER WILLIAMS  ",
+        "Type":"NMEM",
+        "Park Code":"ROWI",
+        "Org Code":1860,
+        "Region":"NER"
+    },
+    {
+        "Name":"ROSIE THE RIVETER\/WWII HOME FRONT    ",
+        "Type":"NHP",
+        "Park Code":"RORI",
+        "Org Code":8490,
+        "Region":"PWR"
+    },
+    {
+        "Name":"ROSS LAKE  ",
+        "Type":"NRA",
+        "Park Code":"ROLA",
+        "Org Code":9490,
+        "Region":"PWR"
+    },
+    {
+        "Name":"RUSSELL CAVE     ",
+        "Type":"NM",
+        "Park Code":"RUCA",
+        "Org Code":5660,
+        "Region":"SER"
+    },
+    {
+        "Name":"SAGAMORE HILL  ",
+        "Type":"NHS",
+        "Park Code":"SAHI",
+        "Org Code":1880,
+        "Region":"NER"
+    },
+    {
+        "Name":"SAGUARO    ",
+        "Type":"NP",
+        "Park Code":"SAGU",
+        "Org Code":8670,
+        "Region":"IMR"
+    },
+    {
+        "Name":"SAINT CROIX      ",
+        "Type":"NSR",
+        "Park Code":"SACN",
+        "Org Code":6590,
+        "Region":"MWR"
+    },
+    {
+        "Name":"SAINT CROIX ISLAND INTERNATIONAL HISTORIC SITE     ",
+        "Type":"OTHER",
+        "Park Code":"SACR",
+        "Org Code":1708,
+        "Region":"NER"
+    },
+    {
+        "Name":"SAINT PAUL'S CHURCH  ",
+        "Type":"NHS",
+        "Park Code":"SAPA",
+        "Org Code":1890,
+        "Region":"NER"
+    },
+    {
+        "Name":"SAINT-GAUDENS  ",
+        "Type":"NHS",
+        "Park Code":"SAGA",
+        "Org Code":1915,
+        "Region":"NER"
+    },
+    {
+        "Name":"SALEM MARITIME  ",
+        "Type":"NHS",
+        "Park Code":"SAMA",
+        "Org Code":1900,
+        "Region":"NER"
+    },
+    {
+        "Name":"SALINAS PUEBLO MISSIONS    ",
+        "Type":"NM",
+        "Park Code":"SAPU",
+        "Org Code":7260,
+        "Region":"IMR"
+    },
+    {
+        "Name":"SALT RIVER BAY ",
+        "Type":"NHP & ECO PRES",
+        "Park Code":"SARI",
+        "Org Code":0,
+        "Region":"SER"
+    },
+    {
+        "Name":"SAN ANTONIO MISSIONS   ",
+        "Type":"NHP",
+        "Park Code":"SAAN",
+        "Org Code":"7600-7609",
+        "Region":"IMR"
+    },
+    {
+        "Name":"SAN FRANCISCO MARITIME    ",
+        "Type":"NHP",
+        "Park Code":"SAFR",
+        "Org Code":8520,
+        "Region":"PWR"
+    },
+    {
+        "Name":"SANTA MONICA MOUNTAINS    ",
+        "Type":"NRA",
+        "Park Code":"SAMO",
+        "Org Code":"8540-8549",
+        "Region":"PWR"
+    },
+    {
+        "Name":"SAN JUAN",
+        "Type":"NHS",
+        "Park Code":"SAJU",
+        "Org Code":"5331-5334",
+        "Region":"SER"
+    },
+    {
+        "Name":"SAN JUAN ISLAND   ",
+        "Type":"NHP",
+        "Park Code":"SAJH",
+        "Org Code":9530,
+        "Region":"PWR"
+    },
+    {
+        "Name":"SEQUOIA    ",
+        "Type":"NP",
+        "Park Code":"SEKI",
+        "Org Code":"8551-8564",
+        "Region":"PWR"
+    },
+    {
+        "Name":"SAND CREEK MASSACRE",
+        "Type":"NHS",
+        "Park Code":"SAND",
+        "Org Code":1315,
+        "Region":"IMR"
+    },
+    {
+        "Name":"SARATOGA NATIONAL HISTORICAL PARK",
+        "Type":"NHP",
+        "Park Code":"SARA",
+        "Org Code":1910,
+        "Region":"NER"
+    },
+    {
+        "Name":"SAUGUS IRON WORKS  ",
+        "Type":"NHS",
+        "Park Code":"SAIR",
+        "Org Code":1920,
+        "Region":"NER"
+    },
+    {
+        "Name":"SCOTTS BLUFF     ",
+        "Type":"NM",
+        "Park Code":"SCBL",
+        "Org Code":6700,
+        "Region":"MWR"
+    },
+    {
+        "Name":"SELMA TO MONTGOMERY",
+        "Type":"NHT",
+        "Park Code":"SEMO",
+        "Org Code":5685,
+        "Region":"SER"
+    },
+    {
+        "Name":"SHENANDOAH  ",
+        "Type":"NP",
+        "Park Code":"SHEN",
+        "Org Code":"4840-4847",
+        "Region":"NER"
+    },
+    {
+        "Name":"SHILOH       ",
+        "Type":"NMP",
+        "Park Code":"SHIL",
+        "Org Code":"5580&5589",
+        "Region":"SER"
+    },
+    {
+        "Name":"SITKA    ",
+        "Type":"NHP",
+        "Park Code":"SITK",
+        "Org Code":9835,
+        "Region":"AKR"
+    },
+    {
+        "Name":"SLEEPING BEAR DUNES     ",
+        "Type":"NL",
+        "Park Code":"SLBE",
+        "Org Code":6620,
+        "Region":"MWR"
+    },
+    {
+        "Name":"SPRINGFIELD ARMORY  ",
+        "Type":"NHS",
+        "Park Code":"SPAR",
+        "Org Code":1930,
+        "Region":"NER"
+    },
+    {
+        "Name":"STATUE OF LIBERTY AND ELLIS ISLAND",
+        "Type":"NM",
+        "Park Code":"STLI",
+        "Org Code":1940,
+        "Region":"NER"
+    },
+    {
+        "Name":"STEAMTOWN  ",
+        "Type":"NHS",
+        "Park Code":"STEA",
+        "Org Code":4810,
+        "Region":"NER"
+    },
+    {
+        "Name":"STE GENEVIEVE (*Authorized not established)",
+        "Type":"NHP",
+        "Park Code":"STGE*",
+        "Org Code":null,
+        "Region":"MWR"
+    },
+    {
+        "Name":"STONES RIVER       ",
+        "Type":"NB",
+        "Park Code":"STRI",
+        "Org Code":"5580&5589",
+        "Region":"SER"
+    },
+    {
+        "Name":"STONEWALL ",
+        "Type":"NM",
+        "Park Code":"STON",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"SUNSET CRATER VOLCANO    ",
+        "Type":"NM",
+        "Park Code":"SUCR",
+        "Org Code":7475,
+        "Region":"IMR"
+    },
+    {
+        "Name":"TALLGRASS PRAIRIE     ",
+        "Type":"NPRES",
+        "Park Code":"TAPR",
+        "Org Code":6355,
+        "Region":"MWR"
+    },
+    {
+        "Name":"THADDEUS KOSCIUSZKO  ",
+        "Type":"NMEM",
+        "Park Code":"THKO",
+        "Org Code":4460,
+        "Region":"NER"
+    },
+    {
+        "Name":"THEODORE ROOSEVELT     ",
+        "Type":"NP",
+        "Park Code":"THRO",
+        "Org Code":"1540 - 1545",
+        "Region":"MWR"
+    },
+    {
+        "Name":"THEODORE ROOSEVELT BIRTHPLACE  ",
+        "Type":"NHS",
+        "Park Code":"THRB",
+        "Org Code":1816,
+        "Region":"NER"
+    },
+    {
+        "Name":"THEODORE ROOSEVELT ISLAND  ",
+        "Type":"NMEM",
+        "Park Code":"THIS",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"THOMAS EDISON      ",
+        "Type":"NHP",
+        "Park Code":"EDIS",
+        "Org Code":1840,
+        "Region":"NER"
+    },
+    {
+        "Name":"THOMAS JEFFERSON  ",
+        "Type":"MEM",
+        "Park Code":"THJE",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"THOMAS STONE  ",
+        "Type":"NHS",
+        "Park Code":"THST",
+        "Org Code":4850,
+        "Region":"NER"
+    },
+    {
+        "Name":"TIMPANOGOS CAVE    ",
+        "Type":"NM",
+        "Park Code":"TICA",
+        "Org Code":1550,
+        "Region":"IMR"
+    },
+    {
+        "Name":"TIMUCUAN ECOLOGICAL     ",
+        "Type":"PRES",
+        "Park Code":"TIMU",
+        "Org Code":5308,
+        "Region":"SER"
+    },
+    {
+        "Name":"TONTO    ",
+        "Type":"NM",
+        "Park Code":"TONT",
+        "Org Code":8680,
+        "Region":"IMR"
+    },
+    {
+        "Name":"TULE LAKE",
+        "Type":"NM",
+        "Park Code":"TULE",
+        "Org Code":8410,
+        "Region":"PWR"
+    },
+    {
+        "Name":"TULE SPRINGS FOSSIL BEDS",
+        "Type":"NM",
+        "Park Code":"TUSK",
+        "Org Code":8379,
+        "Region":"PWR"
+    },
+    {
+        "Name":"TUMACACORI     ",
+        "Type":"NHP",
+        "Park Code":"TUMA",
+        "Org Code":8690,
+        "Region":"IMR"
+    },
+    {
+        "Name":"TUPELO      ",
+        "Type":"NB",
+        "Park Code":"TUPE",
+        "Org Code":null,
+        "Region":"SER"
+    },
+    {
+        "Name":"TUSKEGEE AIRMEN       ",
+        "Type":"NHS",
+        "Park Code":"TUAI",
+        "Org Code":5682,
+        "Region":"SER"
+    },
+    {
+        "Name":"TUSKEGEE INSTITUTE      ",
+        "Type":"NHS",
+        "Park Code":"TUIN\/      SEMO",
+        "Org Code":5680,
+        "Region":"SER"
+    },
+    {
+        "Name":"TUZIGOOT    ",
+        "Type":"NM",
+        "Park Code":"TUZI",
+        "Org Code":8650,
+        "Region":"IMR"
+    },
+    {
+        "Name":"ULYSSES S. GRANT       ",
+        "Type":"NHS",
+        "Park Code":"ULSG",
+        "Org Code":6519,
+        "Region":"MWR"
+    },
+    {
+        "Name":"UPPER DELAWARE ",
+        "Type":"S&RR",
+        "Park Code":"UPDE",
+        "Org Code":4870,
+        "Region":"NER"
+    },
+    {
+        "Name":"VALLES CALDERA",
+        "Type":"NPRES",
+        "Park Code":"VALL",
+        "Org Code":"1290-1297\n",
+        "Region":"IMR"
+    },
+    {
+        "Name":"VALLEY FORGE  ",
+        "Type":"NHP",
+        "Park Code":"VAFO",
+        "Org Code":4860,
+        "Region":"NER"
+    },
+    {
+        "Name":"VANDERBILT MANSION  ",
+        "Type":"NHS",
+        "Park Code":"VAMA",
+        "Org Code":null,
+        "Region":"NER"
+    },
+    {
+        "Name":"VICKSBURG       ",
+        "Type":"NMP",
+        "Park Code":"VICK",
+        "Org Code":"5600-5609",
+        "Region":"SER"
+    },
+    {
+        "Name":"VIETNAM VETERANS  ",
+        "Type":"MEM",
+        "Park Code":"VIVE",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"VIRGIN ISLANDS     ",
+        "Type":"NP",
+        "Park Code":"VIIS",
+        "Org Code":"5661-5365",
+        "Region":"SER"
+    },
+    {
+        "Name":"VIRGIN ISLANDS CORAL REEF",
+        "Type":"NM",
+        "Park Code":"VICR",
+        "Org Code":"5661-5365",
+        "Region":"SER"
+    },
+    {
+        "Name":"VOYAGEURS     ",
+        "Type":"NP",
+        "Park Code":"VOYA",
+        "Org Code":6820,
+        "Region":"MWR"
+    },
+    {
+        "Name":"WACO MAMMOTH",
+        "Type":"NM",
+        "Park Code":"WACO",
+        "Org Code":7730,
+        "Region":"IMR"
+    },
+    {
+        "Name":"WALNUT CANYON    ",
+        "Type":"NM",
+        "Park Code":"WACA",
+        "Org Code":7475,
+        "Region":"IMR"
+    },
+    {
+        "Name":"WAR IN THE PACIFIC   ",
+        "Type":"NHP",
+        "Park Code":"WAPA",
+        "Org Code":8790,
+        "Region":"PWR"
+    },
+    {
+        "Name":"WASHINGTON MONUMENT",
+        "Type":"OTHER",
+        "Park Code":"WAMO",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"WASHITA BATTLEFIELD       ",
+        "Type":"NHS",
+        "Park Code":"WABA",
+        "Org Code":7720,
+        "Region":"IMR"
+    },
+    {
+        "Name":"WEIR FARM  ",
+        "Type":"NHS",
+        "Park Code":"WEFA",
+        "Org Code":1953,
+        "Region":"NER"
+    },
+    {
+        "Name":"WHISKEYTOWN ",
+        "Type":"NRA",
+        "Park Code":"WHIS",
+        "Org Code":8750,
+        "Region":"PWR"
+    },
+    {
+        "Name":"WHITE HOUSE (Presidents Park  )",
+        "Type":"OTHER",
+        "Park Code":"PRPA",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"WHITE SANDS    ",
+        "Type":"NM",
+        "Park Code":"WHSA",
+        "Org Code":7810,
+        "Region":"IMR"
+    },
+    {
+        "Name":"WHITMAN MISSION      ",
+        "Type":"NHS",
+        "Park Code":"WHMI",
+        "Org Code":9550,
+        "Region":"PWR"
+    },
+    {
+        "Name":"WILLIAM HOWARD TAFT       ",
+        "Type":"NHS",
+        "Park Code":"WIHO",
+        "Org Code":6820,
+        "Region":"MWR"
+    },
+    {
+        "Name":"WILSON\u2019S CREEK     ",
+        "Type":"NB",
+        "Park Code":"WICR",
+        "Org Code":6370,
+        "Region":"MWR"
+    },
+    {
+        "Name":"WIND CAVE     ",
+        "Type":"NP",
+        "Park Code":"WICA",
+        "Org Code":"1560 - 1561",
+        "Region":"MWR"
+    },
+    {
+        "Name":"WOLF TRAP PARK FOR THE PERFORMING ARTS",
+        "Type":"OTHER",
+        "Park Code":"WOTR",
+        "Org Code":"3801-3817",
+        "Region":"NCR"
+    },
+    {
+        "Name":"WOMEN'S RIGHTS  ",
+        "Type":"NHP",
+        "Park Code":"WORI",
+        "Org Code":1955,
+        "Region":"NER"
+    },
+    {
+        "Name":"WORLD WAR I",
+        "Type":"NMEM",
+        "Park Code":null,
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"WORLD WAR II  ",
+        "Type":"MEM",
+        "Park Code":"NAWO",
+        "Org Code":null,
+        "Region":"NCR"
+    },
+    {
+        "Name":"WRANGELL-ST. ELIAS     ",
+        "Type":"NP",
+        "Park Code":"WRST",
+        "Org Code":9865,
+        "Region":"AKR"
+    },
+    {
+        "Name":"WRANGELL-ST. ELIAS     ",
+        "Type":"NPRES",
+        "Park Code":"WRST",
+        "Org Code":9865,
+        "Region":"AKR"
+    },
+    {
+        "Name":"WRIGHT BROTHERS     ",
+        "Type":"NMEM",
+        "Park Code":"WRBR",
+        "Org Code":5187,
+        "Region":"SER"
+    },
+    {
+        "Name":"WUPATKI    ",
+        "Type":"NM",
+        "Park Code":"WUPA",
+        "Org Code":7475,
+        "Region":"IMR"
+    },
+    {
+        "Name":"YELLOWSTONE    ",
+        "Type":"NP",
+        "Park Code":"YELL",
+        "Org Code":"1570 -  1581",
+        "Region":"IMR"
+    },
+    {
+        "Name":"YOSEMITE    ",
+        "Type":"NP",
+        "Park Code":"YOSE",
+        "Org Code":8895,
+        "Region":"PWR"
+    },
+    {
+        "Name":"YUCCA HOUSE    ",
+        "Type":"NM",
+        "Park Code":"YUHO",
+        "Org Code":1499,
+        "Region":"IMR"
+    },
+    {
+        "Name":"YUKON-CHARLEY RIVERS      ",
+        "Type":"NPRES",
+        "Park Code":"YUCH",
+        "Org Code":null,
+        "Region":"AKR"
+    },
+    {
+        "Name":"ZION    ",
+        "Type":"NP",
+        "Park Code":"ZION",
+        "Org Code":"1590-1596",
+        "Region":"IMR"
+    }
+]
