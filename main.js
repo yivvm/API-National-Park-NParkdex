@@ -1,33 +1,31 @@
 const np_container = document.getElementById('np-container');
 
-// Get parkCode for 60+ national parks
+// Get parkCode for 60+ national parks from NPS-Unit-List.json in the same folder
 // const np_count = 10;
-const np_codes = ['acad', 'dena', 'yell']
-const np_code = []
-async function getParkCode () {
-    const url = `https://developer.nps.gov/api/v1/`;
-    const options = {
-        method: 'GET',
-        headers: {
-            'X-Api-Key': 'umpGwi4hscmLlusLAwDh1QCX9x4cBsEqqcfNGeQi',
-        }
-    };
-
+// const np_code = ['acad', 'dena', 'yell']
+const np_codes = []
+async function getAllParkCode () {
     try {
-        const response = await fetch(url, options);
-        const result = await response.json();
-        console.log(result.data[0])
-        // console.log(result.data[0].addresses[0].stateCode)
-        // console.log(result.data[0].images[0].url)
-        // console.log(result.data[0]['fullName']);
-        createNPCard(result);
+        const response = await fetch('NPS-Unit-List.json');
+        const data = await response.json();
+        console.log(data)
+
+        // Find national parks as "Type":"NP"
+        data.forEach((unit) => {
+            if (unit.Type === "NP") {
+                np_codes.push(unit["Park Code"])
+            }
+        })
+
+        console.log(np_codes) 
+        // TODO: got 59 NPs as the result, will look up the rest/updated ones later
 
     } catch (error) {
         console.error(error)
     }
 }
 
-getParkCode();
+getAllParkCode();
 
 const colors = {
     'AL': 'Alabama',
