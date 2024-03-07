@@ -17,7 +17,7 @@ async function getAllParkCode () {
             }
         })
 
-        console.log(np_codes) 
+        // console.log(np_codes) 
         // TODO: got 59 NPs as the result, will look up the rest/updated ones later
 
     } catch (error) {
@@ -25,7 +25,8 @@ async function getAllParkCode () {
     }
 }
 
-getAllParkCode();
+// getAllParkCode();
+// console.log(np_codes)
 
 const colors = {
     'AL': 'Alabama',
@@ -83,6 +84,8 @@ const colors = {
 const main_type = Object.keys(colors);
 
 const fetchNPs = async () => {
+    await getAllParkCode();
+    console.log(np_codes)
     np_codes.forEach((parkCode) => {
         // console.log(parkCode);
         getNP(parkCode);
