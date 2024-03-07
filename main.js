@@ -105,7 +105,7 @@ async function getNP (parkCode) {
     try {
         const response = await fetch(url, options);
         const result = await response.json();
-        // console.log(result.data[0])
+        console.log(result.data[0])
         // console.log(result.data[0].addresses[0].stateCode)
         // console.log(result.data[0].images[0].url)
         // console.log(result.data[0]['fullName']);
