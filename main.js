@@ -1,7 +1,6 @@
 const np_container = document.getElementById('np-container');
 
 // Get parkCode for 60+ national parks from NPS-Unit-List.json in the same folder
-// const np_count = 10;
 // const np_code = ['acad', 'dena', 'yell']
 const np_codes = []
 async function getAllParkCode () {
@@ -28,6 +27,71 @@ async function getAllParkCode () {
 // getAllParkCode();
 // console.log(np_codes)
 
+// Create an array of state codes and names
+const states = [
+    { code: 'AL', name: 'Alabama' },
+    { code: 'AK', name: 'Alaska' },
+    { code: 'AZ', name: 'Arizona' },
+    { code: 'AR', name: 'Arkansas' },
+    { code: 'CA', name: 'California' },
+    { code: 'CO', name: 'Colorado' },
+    { code: 'CT', name: 'Connecticut' },
+    { code: 'DE', name: 'Delaware' },
+    { code: 'FL', name: 'Florida' },
+    { code: 'GA', name: 'Georgia' },
+    { code: 'HI', name: 'Hawaii' },
+    { code: 'ID', name: 'Idaho' },
+    { code: 'IL', name: 'Illinois' },
+    { code: 'IN', name: 'Indiana' },
+    { code: 'IA', name: 'Iowa' },
+    { code: 'KS', name: 'Kansas' },
+    { code: 'KY', name: 'Kentucky' },
+    { code: 'LA', name: 'Louisiana' },
+    { code: 'ME', name: 'Maine' },
+    { code: 'MD', name: 'Maryland' },
+    { code: 'MA', name: 'Massachusetts' },
+    { code: 'MI', name: 'Michigan' },
+    { code: 'MN', name: 'Minnesota' },
+    { code: 'MS', name: 'Mississippi' },
+    { code: 'MO', name: 'Missouri' },
+    { code: 'MT', name: 'Montana' },
+    { code: 'NE', name: 'Nebraska' },
+    { code: 'NV', name: 'Nevada' },
+    { code: 'NH', name: 'New Hampshire' },
+    { code: 'NJ', name: 'New Jersey' },
+    { code: 'NM', name: 'New Mexico' },
+    { code: 'NY', name: 'New York' },
+    { code: 'NC', name: 'North Carolina' },
+    { code: 'ND', name: 'North Dakota' },
+    { code: 'OH', name: 'Ohio' },
+    { code: 'OK', name: 'Oklahoma' },
+    { code: 'OR', name: 'Oregon' },
+    { code: 'PA', name: 'Pennsylvania' },
+    { code: 'RI', name: 'Rhode Island' },
+    { code: 'SC', name: 'South Carolina' },
+    { code: 'SD', name: 'South Dakota' },
+    { code: 'TN', name: 'Tennessee' },
+    { code: 'TX', name: 'Texas' },
+    { code: 'UT', name: 'Utah' },
+    { code: 'VT', name: 'Vermont' },
+    { code: 'VA', name: 'Virginia' },
+    { code: 'WA', name: 'Washington' },
+    { code: 'WV', name: 'West Virginia' },
+    { code: 'WI', name: 'Wisconsin' },
+    { code: 'WY', name: 'Wyoming' }
+];
+
+// Populate the state filter dropdown
+const stateFilter = document.getElementById('state-filter');
+
+states.forEach((state) => {
+    const option = document.createElement('option');
+    option.value = state.code;
+    option.textContent = state.name;
+    stateFilter.appendChild(option);
+})
+
+// color for each state
 const colors = {
     "AL": "#E0B3FF",
     "AK": "#F5F5F5",
@@ -93,6 +157,7 @@ const fetchNPs = async () => {
         getNP(parkCode);
     })
 }
+
 
 // Make API request
 async function getNP (parkCode) {
@@ -160,6 +225,33 @@ const createNPCard = (park) => {
     }
     
 }
+
+
+// Add event listener for state filter
+stateFilter.addEventListener('change', () => {
+    const selectedState = stateFilter.value;
+    filterParkByState(selectedState);
+})
+
+// Filter parks by state
+function filterParkByState(selectedState) {
+    const parks = document.querySelectorAll('.park');
+
+    parks.forEach(parkEl => {
+        // console.log(parkEl)
+        const state = parkEl.querySelector('.state').textContent.trim();
+        // console.log(state)
+        const stateList = state.split(',');
+        console.log(stateList)
+
+        if (selectedState === 'all' || stateList.includes(selectedState)) {
+            parkEl.style.display = 'block';
+        } else {
+            parkEl.style.display = 'none';
+        }
+    })
+}
+
 
 
 fetchNPs();
