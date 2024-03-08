@@ -10,11 +10,18 @@
     
     <h1>National Parks: NParkdex</h1>
 
-    <select name="state-filter" id="state-filter">
+    <select name="state-filter" id="state-filter" style="margin: 0 0 15px 0">
         <option value="all">All States</option>
-        
-    </select>
-
+    </select>    
+    
+    <button id="favorite">Get your favorite parks</button>
+    
+    <p class="instruction">
+        <sup>*</sup>The national parks are colored by states. 
+        <sup>*</sup>Click the picture to favorite your parks.
+        <sup>*</sup>Click the name to open its nps.gov page.
+    </p>
+    
     <div class="np-container" id="np-container"></div>
 
     <script src="main.js"></script>

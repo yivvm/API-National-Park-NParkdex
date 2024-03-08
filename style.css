@@ -67,3 +67,7 @@ h1 {
     word-wrap: break-word;
     overflow-wrap: break-word;
 }
+
+.name:hover {
+    cursor: alias;
+}

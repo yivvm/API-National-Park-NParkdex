@@ -149,6 +149,8 @@ const colors = {
 
 const main_type = Object.keys(colors);
 
+const favs = [];
+
 const fetchNPs = async () => {
     await getAllParkCode();
     console.log(np_codes)
@@ -183,12 +185,10 @@ async function getNP (parkCode) {
     }
 }
 
-const createNPCard = (park) => {
+const createNPCard = async (park) => {
     const parkEl = document.createElement('div');
     parkEl.classList.add('park');
     // console.log(`park: ${park}`)
-
-    parkEl.style.cursor = 'pointer';
 
     // if (park) {
     if (park && park.data && park.data[0] && park.data[0].addresses && park.data[0].addresses[0] && park.data[0].addresses[0].stateCode && park.data[0].images && park.data[0].images[0]) {
@@ -216,9 +216,21 @@ const createNPCard = (park) => {
         parkEl.innerHTML = parkInnerHtml;
         np_container.appendChild(parkEl);
 
+        // Add event listener for marking as favorite
+        const img = parkEl.querySelector('img')
+        img.addEventListener('click', function(event) {
+            console.log('favorite', name);
+            img.style.cursor = 'pointer';
+            favs.push(name)
+            console.log(favs)
+            event.stopPropagation();
+        })
+
         // Add event listener to park card, link to nps.gov/parkCode/index and open a new tab
-        parkEl.addEventListener('click', () => {
+        const name_link = parkEl.querySelector('.name')
+        name_link.addEventListener('click', function(event) {
             window.open(`${park_url}`, '_blank');
+            event.preventDefault();
         })
     } else {
         console.error(`Invalid park data`)
@@ -234,7 +246,7 @@ stateFilter.addEventListener('change', () => {
 })
 
 // Filter parks by state
-function filterParkByState(selectedState) {
+async function filterParkByState(selectedState) {
     const parks = document.querySelectorAll('.park');
 
     parks.forEach(parkEl => {
@@ -253,5 +265,22 @@ function filterParkByState(selectedState) {
 }
 
 
+// get favorite national parks
+const getFavoritesBtn = document.getElementById('favorite');
+getFavoritesBtn.addEventListener('click', getFavorites);
+
+async function getFavorites() {
+    const parks = document.querySelectorAll('.park')
+
+    parks.forEach((parkEl) => {
+        const name = parkEl.querySelector('.name').textContent.trim();
+
+        if (favs.includes(name)) {
+            parkEl.style.display = 'block';
+        } else {
+            parkEl.style.display = 'none';
+        }
+    })
+}
 
 fetchNPs();
