@@ -14,6 +14,8 @@ NParkdex is a web application that displays information about national parks in 
 - ```main.html```
 - ```main.js```
 - ```style.css```
+- ```states.js```
+- ```colors.js```
 - ```README.md```
 - ```excel-2-json.py```: convert .xlsx file into .json file.
 - ```excel-2-txt.py```: convert .xlsx file into .txt file.
