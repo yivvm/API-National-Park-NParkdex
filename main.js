@@ -1,6 +1,8 @@
 import { states } from './states.js';
 import { colors } from './colors.js';
 
+// const fs = require('fs');
+
 const np_container = document.getElementById('np-container');
 
 // Get parkCode for 60+ national parks from NPS-Unit-List.json in the same folder
@@ -54,7 +56,7 @@ const fetchNPs = async () => {
     })
 }
 
-
+const parks_info = []
 // Make API request
 async function getNP (parkCode) {
     const url = `https://developer.nps.gov/api/v1/parks?parkCode=${parkCode}`;
@@ -72,11 +74,59 @@ async function getNP (parkCode) {
         // console.log(result.data[0].addresses[0].stateCode)
         // console.log(result.data[0].images[0].url)
         // console.log(result.data[0]['fullName']);
+
+        // Write result to a JSON file
+        const jsonData = JSON.stringify(result.data[0], null, 4);
+        // console.log(jsonData)
+
+        
+        parks_info.push(result.data[0])
+        // console.log(parks_info)
+        
+        // Cannot directly write to the file system using Node.js's 'fs' module
+        // fs.writeFile('parks_info.json', jsonData, 'utf8', (err) => {
+        //     if (err) {
+        //         console.error('error writing json file: ', err);
+        //     } else {
+        //         console.log('JSON file has been written successfully.')
+        //     }
+        // })
+
+        // Call a function to save the parks_info array as JSON file
+        // saveParksInfoAsJSON();
+
         createNPCard(result);
 
     } catch (error) {
         console.error(error)
     }
+}
+
+
+// Function to save parks_info array as JSON file
+function saveParksInfoAsJSON() {
+    // Convert parks_info array to JSON string
+    const jsonData = JSON.stringify(parks_info, null, 4);
+
+    // Create a Blob containing the JSON data
+    const blob = new Blob([jsonData], { type: 'application/json' });
+
+    // Create a temporary URL for the Blob
+    const url = window.URL.createObjectURL(blob);
+
+    // Create a download link
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'parks_info.json';
+    link.textContent = 'Download Parks Info'
+
+    // Append the download link to the document body
+    document.body.appendChild(link);
+    link.click();
+
+    // Cleanup: remove the temporary URL and the download link
+    window.URL.revokeObjectURL(url);
+    link.remove();
 }
 
 const createNPCard = async (park) => {
