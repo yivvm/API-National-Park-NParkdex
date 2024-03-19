@@ -9,6 +9,7 @@ NParkdex is a web application that displays information about national parks in 
 - Mark favorite parks by clicking on the park image.
 - View park details on the National Park Service website by clicking on the park name.
 - Get a list of favorite parks.  
+- Save all parks information in a JSON file
 
 ## Files
 - ```main.html```
